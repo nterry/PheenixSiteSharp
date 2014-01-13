@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace TestingMono.Controllers
+namespace PheenixSite.Controllers
 {
 	public class HomeController : Controller
 	{

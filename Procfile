@@ -1,1 +1,0 @@
-worker: mono WorkerTest.exe

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingMono", "TestingMono\TestingMono.csproj", "{B0237850-AB05-4223-BDBE-4153C0B072DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PheenixSite", "PheenixSite\PheenixSite.csproj", "{B0237850-AB05-4223-BDBE-4153C0B072DD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{721C9FEA-67EF-42F6-9949-9D6A1723BD7E}"
 	ProjectSection(SolutionItems) = preProject
@@ -9,8 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{721C9F
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerTest", "WorkerTest\WorkerTest.csproj", "{3A33A6B4-3307-41C2-BBBF-B678FA41BF9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +20,6 @@ Global
 		{B0237850-AB05-4223-BDBE-4153C0B072DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0237850-AB05-4223-BDBE-4153C0B072DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0237850-AB05-4223-BDBE-4153C0B072DD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A33A6B4-3307-41C2-BBBF-B678FA41BF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A33A6B4-3307-41C2-BBBF-B678FA41BF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A33A6B4-3307-41C2-BBBF-B678FA41BF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A33A6B4-3307-41C2-BBBF-B678FA41BF9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
